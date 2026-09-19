@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0dd3a483761952c5f2a3c8f5",
+  "owner": "x7wmu5dqa",
+  "repo": "page-c01f68c58f32163c977a0d49",
+  "title": "clash verge服务商官网",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c01f68c58f32163c977a0d49",
+      "a": "ByWave",
+      "b": "clash verge服务商官网",
+      "entity": "ByWave",
+      "brand": "clash verge服务商官网",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5c8caa768b07e1042e8e6065be49823f749e611198107a07c5acfefdafa77013",
+      "content": {
+        "primary_entity": "ByWave",
+        "keyword1": "ByWave",
+        "keyword2": "clash verge服务商官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "依据设备系统与使用习惯选择客户端，按订阅文档导入配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按设备数量与月流量选择套餐，安装客户端后导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选择套餐，连接更稳定",
+          "AI_DESCRIPTION": "，围绕月流量、在线设备数与节点线路设计三档订阅，覆盖从个人日常到团队协作的连接需求。",
+          "AI_FEATURES_INTRO": "从套餐、设备到订阅周期，几个实际关注点。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版 ¥15/月含 100GB 流量，旗舰版 ¥35/月含 300GB，团队版 ¥85/月含 1000GB。",
+          "AI_FEATURE_TEXT_2": "三档分别支持 3 台、5 台、20 台设备同时在线，可按家庭或小组规模匹配。",
+          "AI_FEATURE_TEXT_3": "年付价格为 ¥150、¥350、¥850，适合长期稳定使用的用户选择。",
+          "AI_FEATURE_TITLE_1": "按流量匹配套餐",
+          "AI_FEATURE_TITLE_2": "设备数量可选",
+          "AI_FEATURE_TITLE_3": "年付价格更划算",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到实际连接。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "ByWave 提供多档订阅方案，按流量与设备数量覆盖个人和团队的不同连接需求，节点线路兼顾流媒体与游戏加速。",
+          "AI_HERO_SUBTITLE": "按设备与流量选订阅",
+          "AI_HIGHLIGHT_1": "三档套餐灵活选择",
+          "AI_HIGHLIGHT_2": "流量与设备数清晰",
+          "AI_HIGHLIGHT_3": "年付价格更省",
+          "AI_PLANS_INTRO": "对比流量、设备数与线路，基础版 ¥15/月适合轻量使用，旗舰版 ¥35/月兼顾性能，团队版 ¥85/月面向多设备协作。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量和在线设备数量，在基础版、旗舰版、团队版中确认合适方案。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，包括客户端系统与设备数量限制。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档，将订阅地址导入 Clash Verge 等工具完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "多档订阅按需选",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。多人共用可选团队版，个人手机加电脑用基础版或旗舰版即可。",
+          "AI_FAQ_ANSWER_2": "可以。按年付仅需基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相比月付更划算，适合长期使用。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点池，旗舰版含 IPLC 专线游戏加速优化与全节点原生流媒体解锁，团队版使用 VIP 专属高带宽节点，可根据用途选择。",
+          "AI_FAQ_ANSWER_4": "在订阅管理页面添加订阅地址后更新节点，不同客户端入口名称略有差异，可参考对应客户端文档完成配置。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版支持全节点原生流媒体解锁，团队版提供 VIP 高带宽节点，日常影音或多人共享都能覆盖。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时几台设备使用？",
+          "AI_FAQ_QUESTION_2": "按年付是否比月付划算？",
+          "AI_FAQ_QUESTION_3": "不同版本的线路有什么区别？",
+          "AI_FAQ_QUESTION_4": "订阅导入后节点不更新怎么办？",
+          "AI_FAQ_QUESTION_5": "流媒体解锁覆盖哪些版本？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e9f5552805612dae3ce6f22f6308df6bcf7d8008024700bf648c135dc0178c57",
+    "sitemap.xml": "9e529ac2860a101cca92dd0fab66d732e0bbc9163044cc4891fe22ec2dddf985",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "72160e70021fac0961e566042654c4eb71c9c6404846f8d476ee5789b4509ed4"
+}
